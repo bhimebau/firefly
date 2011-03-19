@@ -10,7 +10,7 @@
 
 @implementation flashlightAppDelegate
 
-
+// Simple change comment
 @synthesize window=_window;
 
 @synthesize managedObjectContext=__managedObjectContext;
