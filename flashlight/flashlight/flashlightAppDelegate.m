@@ -6,6 +6,8 @@
 //  Copyright 2011 Indiana University School of Informatics and Computing. All rights reserved.
 //
 
+// Here is another comment. 
+
 #import "flashlightAppDelegate.h"
 
 @implementation flashlightAppDelegate
